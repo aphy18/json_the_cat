@@ -1,0 +1,21 @@
+{
+  "name": "d4-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.29.0",
+    "request": "^2.88.2",
+    "test": "^0.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.1"
+  }
+}
